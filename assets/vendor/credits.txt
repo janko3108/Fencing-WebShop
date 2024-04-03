@@ -1,0 +1,19 @@
+The template (landing page) was found on https://www.w3schools.com/. 
+Link to the template: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_start_page&stacked=h
+
+Back to top arrow - Iste-140 project 3 code...
+
+Blur animation on Order.html page -> Iste.140 project 3, but original code was from this Youtube video:
+https://youtu.be/T33NN_pPeNI?si=j6NFicpGrA9sTNry
+
+Reviews section on Index.html:
+https://www.darkcode.info/2018/12/responsive-testimonials-section-using.html (I DO NOT RECOMMEND OPENING IT, MY ANTIVIRUS SAID IT IS A MALWARE SITE)
+
+Page content:
+ChatGPT (https://www.chat.openai.com)
+
+Pictures:
+Landing page gif - https://www.google.com/url?sa=i&url=https%3A%2F%2Fforums.episodeinteractive.com%2Ft%2Fclothing-fencing-uniforms-for-limelight%2F358872&psig=AOvVaw3qVf3zT88QAv-XR5K6zK1V&ust=1705952017900000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDh-Nmc74MDFQAAAAAdAAAAABAD
+Weapons picture - https://www.google.com/url?sa=i&url=https%3A%2F%2Facademyoffencingmasters.com%2Fblog%2Ffencing-rules-for-novice-parents-differences-for-foil-epee-and-sabre%2F&psig=AOvVaw0hZF8jy61qHUnoVvuO1Iil&ust=1705952069668000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC3l-uc74MDFQAAAAAdAAAAABAD
+Fencer picture - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Ffencer-man-wearing-fencing-suit-practicing-with-sword-sports-arena-lense-flares-sport-infographic-shot-put-athletics-events-white-background-drawn-flat-style_19798727.htm&psig=AOvVaw1WfDyD1duQHEfxMTSBdJnz&ust=1705952127054000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjGtoad74MDFQAAAAAdAAAAABAD
+Favicon - https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Ficon%2Ffencing-16708%2F&psig=AOvVaw3AWnWwZTq7WB03NQGvdUit&ust=1705952145538000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjrs4-d74MDFQAAAAAdAAAAABAD
